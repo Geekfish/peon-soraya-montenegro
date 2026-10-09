@@ -6,8 +6,22 @@ Clips were picked by popularity: YouTube view counts and the most-liked comments
 
 ## Install
 
+Install [peon-ping](https://peonping.com) first. The pack is in the [PeonPing registry](https://github.com/PeonPing/registry).
+
 ```bash
-ln -s "$PWD" ~/.claude/hooks/peon-ping/packs/soraya_montenegro_gr
+peon packs install soraya_montenegro_gr
+peon packs use soraya_montenegro_gr
+peon preview task.error
+```
+
+If your `pack_rotation` list is not empty, peon-ping picks packs from it and ignores `peon packs use`. Add this pack to the rotation with `peon packs rotation add soraya_montenegro_gr`, or use it in one project folder with `peon packs bind soraya_montenegro_gr`.
+
+### From a local copy
+
+To test changes before a release, install from your clone:
+
+```bash
+peon packs install-local .
 ```
 
 ## Files
