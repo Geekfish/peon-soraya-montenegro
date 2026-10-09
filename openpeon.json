@@ -2,10 +2,11 @@
   "cesp_version": "1.0",
   "name": "soraya_montenegro_gr",
   "display_name": "Soraya Montenegro (Greek dub)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Soraya Montenegro from the Greek dub of María la del Barrio (Μαρία της Γειτονιάς), voiced by Μαρία Πλακίδη.",
   "author": {
-    "name": "Eleni Lixourioti"
+    "name": "Eleni Lixourioti",
+    "github": "Geekfish"
   },
   "license": "CC-BY-NC-4.0",
   "language": "el",
@@ -15,7 +16,7 @@
         {
           "file": "sounds/filas_tin_anapiri.mp3",
           "label": "Τι κάνεις εκεί; Φιλάς την ανάπηρη;",
-          "sha256": "42d17e85933c82c1d9b93502c024043c07c53c14e94d94ff3e9e59a66043e8e6"
+          "sha256": "28bc9b2e89d4f466f28c21a0e7d2add559848973ae046aa0647f98fdbf9a9f04"
         },
         {
           "file": "sounds/pou_einai_i_anapiri.mp3",
@@ -119,7 +120,7 @@
         },
         {
           "file": "sounds/paliogria.mp3",
-          "label": "Παλιόγρια, παλιόγρια, παλιόγρια!",
+          "label": "Θα μάθεις να βογκάς, παλιόγρια!",
           "sha256": "a626f8340ff64a6518c629c4b8d44d66512ee2f251971297bc85967e7d2c030c"
         }
       ]
@@ -148,5 +149,6 @@
         }
       ]
     }
-  }
+  },
+  "icon": "icons/pack.png"
 }
