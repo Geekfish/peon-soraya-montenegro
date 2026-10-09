@@ -1,0 +1,152 @@
+{
+  "cesp_version": "1.0",
+  "name": "soraya_montenegro_gr",
+  "display_name": "Soraya Montenegro (Greek dub)",
+  "version": "1.0.0",
+  "description": "Soraya Montenegro from the Greek dub of María la del Barrio (Μαρία της Γειτονιάς), voiced by Μαρία Πλακίδη.",
+  "author": {
+    "name": "Eleni Lixourioti"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "el",
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/filas_tin_anapiri.mp3",
+          "label": "Τι κάνεις εκεί; Φιλάς την ανάπηρη;",
+          "sha256": "42d17e85933c82c1d9b93502c024043c07c53c14e94d94ff3e9e59a66043e8e6"
+        },
+        {
+          "file": "sounds/pou_einai_i_anapiri.mp3",
+          "label": "Σιμπριάνο! Πού είναι η ανάπηρη και η υπηρέτριά της;",
+          "sha256": "52c9b7d58181f51f62b33d87ebb03f7dfccc150720750c3f345519f330d1d544"
+        },
+        {
+          "file": "sounds/ti_koutsompolevete.mp3",
+          "label": "Τι κουτσομπολεύετε εδώ;",
+          "sha256": "1222c520767f94eb0702e582680273bc6fc00e7a724fc5a32d2a66539a7b783b"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/xoris_tin_adeia_mou.mp3",
+          "label": "Χωρίς την άδειά μου;",
+          "sha256": "00a67a05e9e2e9a378df3722db70141d069ff6ab8caec68f38a61cead8501a85"
+        },
+        {
+          "file": "sounds/anathema_se.mp3",
+          "label": "Ανάθεμά σε!",
+          "sha256": "a65d98d74c7b0fc8a1c6799944d772058e4bb1f43600d457d495dddb839a77b4"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/parakatiani.mp3",
+          "label": "Εγώ είμαι, η παρακατιανή, η Σοράγια!",
+          "sha256": "398de88b37b3937101ae024be788d59d9b214de244babb00fe20ee55d65882ec"
+        },
+        {
+          "file": "sounds/eimai_i_kyria.mp3",
+          "label": "Από τώρα εγώ είμαι η κυρία αυτού του σπιτιού.",
+          "sha256": "94436b62f6fa80b7905d1a5fe021772563cc85b88805b383c8126745036390ca"
+        },
+        {
+          "file": "sounds/ti_koutsompolevete.mp3",
+          "label": "Τι κουτσομπολεύετε εδώ;",
+          "sha256": "1222c520767f94eb0702e582680273bc6fc00e7a724fc5a32d2a66539a7b783b"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/fysika_o_ti_po_ego.mp3",
+          "label": "Φυσικά, ό,τι πω εγώ!",
+          "sha256": "25f0b1160c9d2d344e07ec9a6bea63d2e4d4a67709e1f628bb25c4737163d9f1"
+        },
+        {
+          "file": "sounds/katalavate.mp3",
+          "label": "Καταλάβατε;",
+          "sha256": "64dcbfb0bcc393473a098e30c59d4d13021efa23fe8abd18f7457cf1aa13f462"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/fysika_o_ti_po_ego.mp3",
+          "label": "Φυσικά, ό,τι πω εγώ!",
+          "sha256": "25f0b1160c9d2d344e07ec9a6bea63d2e4d4a67709e1f628bb25c4737163d9f1"
+        },
+        {
+          "file": "sounds/eimai_i_kyria.mp3",
+          "label": "Από τώρα εγώ είμαι η κυρία αυτού του σπιτιού.",
+          "sha256": "94436b62f6fa80b7905d1a5fe021772563cc85b88805b383c8126745036390ca"
+        },
+        {
+          "file": "sounds/fygete.mp3",
+          "label": "Φύγετε! Φύγετε!",
+          "sha256": "56b4e442fa7b53d9c887d4ac66f7ceac9dee24568d514498be44202c746faedf"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/poso_se_miso.mp3",
+          "label": "Πόσο σε μισώ, σκουπιδιάρα του διαβόλου! Πόσο σε μισώ!",
+          "sha256": "1c03aac873c7b32296fc3186ab13524dd3d3268f900f958fe7c4fbe74660e8c9"
+        },
+        {
+          "file": "sounds/tha_to_metanioseis.mp3",
+          "label": "Πώς τόλμησες! Θα το μετανιώσεις πικρά!",
+          "sha256": "c8664f81c8fbd37e50f89292cbb06dbed4248215d7dd016c3de0596d033a6c83"
+        },
+        {
+          "file": "sounds/sou_to_eixa_pei.mp3",
+          "label": "Σου το είχα πει! Κι εσύ το έκανες!",
+          "sha256": "0f3dffa595427cd77cc49e459ea0a2e3fb74e57e68eeb47f68ef7d551f65bdbf"
+        },
+        {
+          "file": "sounds/kataramei_fonissa.mp3",
+          "label": "Καταραμένη! Φόνισσα!",
+          "sha256": "0420aec78369543c8205efe627a1a72c2e7563e15445704e8ba0b8a42ee76f1b"
+        },
+        {
+          "file": "sounds/paliogria.mp3",
+          "label": "Παλιόγρια, παλιόγρια, παλιόγρια!",
+          "sha256": "a626f8340ff64a6518c629c4b8d44d66512ee2f251971297bc85967e7d2c030c"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vouloste_to.mp3",
+          "label": "Βούλωσ' το! Να φιλάς τον Ναντίτο μου! Πώς τολμάς!",
+          "sha256": "317e76366e760e0f47f342ce3e569fb34475779ac767b7a63c31f3a2be44906a"
+        },
+        {
+          "file": "sounds/me_ton_nandito_mou.mp3",
+          "label": "Με τον Ναντίτο μου!",
+          "sha256": "872522ccb07f88cf35793cccdda2255cfb79471d3ffea9ca8f728c90ada75192"
+        },
+        {
+          "file": "sounds/erotevmeni_kataramei.mp3",
+          "label": "Ώστε με αυτόν είσαι ερωτευμένη, καταραμένη ανάπηρη!",
+          "sha256": "ece7a4ac07d94198eb4b836c27f7077b2207e51eb8ec512ebf6666758acb5652"
+        },
+        {
+          "file": "sounds/xoris_tin_adeia_mou.mp3",
+          "label": "Χωρίς την άδειά μου;",
+          "sha256": "00a67a05e9e2e9a378df3722db70141d069ff6ab8caec68f38a61cead8501a85"
+        }
+      ]
+    }
+  }
+}

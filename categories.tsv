@@ -1,0 +1,22 @@
+session.start	parakatiani	Εγώ είμαι, η παρακατιανή, η Σοράγια!
+session.start	eimai_i_kyria	Από τώρα εγώ είμαι η κυρία αυτού του σπιτιού.
+session.start	ti_koutsompolevete	Τι κουτσομπολεύετε εδώ;
+task.acknowledge	fysika_o_ti_po_ego	Φυσικά, ό,τι πω εγώ!
+task.acknowledge	katalavate	Καταλάβατε;
+task.complete	fysika_o_ti_po_ego	Φυσικά, ό,τι πω εγώ!
+task.complete	eimai_i_kyria	Από τώρα εγώ είμαι η κυρία αυτού του σπιτιού.
+task.complete	fygete	Φύγετε! Φύγετε!
+task.error	poso_se_miso	Πόσο σε μισώ, σκουπιδιάρα του διαβόλου! Πόσο σε μισώ!
+task.error	tha_to_metanioseis	Πώς τόλμησες! Θα το μετανιώσεις πικρά!
+task.error	sou_to_eixa_pei	Σου το είχα πει! Κι εσύ το έκανες!
+task.error	kataramei_fonissa	Καταραμένη! Φόνισσα!
+task.error	paliogria	Παλιόγρια, παλιόγρια, παλιόγρια!
+input.required	filas_tin_anapiri	Τι κάνεις εκεί; Φιλάς την ανάπηρη;
+input.required	pou_einai_i_anapiri	Σιμπριάνο! Πού είναι η ανάπηρη και η υπηρέτριά της;
+input.required	ti_koutsompolevete	Τι κουτσομπολεύετε εδώ;
+resource.limit	xoris_tin_adeia_mou	Χωρίς την άδειά μου;
+resource.limit	anathema_se	Ανάθεμά σε!
+user.spam	vouloste_to	Βούλωσ' το! Να φιλάς τον Ναντίτο μου! Πώς τολμάς!
+user.spam	me_ton_nandito_mou	Με τον Ναντίτο μου!
+user.spam	erotevmeni_kataramei	Ώστε με αυτόν είσαι ερωτευμένη, καταραμένη ανάπηρη!
+user.spam	xoris_tin_adeia_mou	Χωρίς την άδειά μου;
