@@ -1,5 +1,7 @@
 # Soraya Montenegro (Greek dub)
 
+<img src="icons/pack.png" alt="Soraya Montenegro" width="128">
+
 [peon-ping](https://peonping.com) sound pack with Soraya Montenegro, the villain of the 1995 Mexican telenovela *María la del Barrio*, in the Greek dub (*Μαρία της Γειτονιάς*). Μαρία Πλακίδη is the Greek voice.
 
 Clips were picked by popularity: YouTube view counts and the most-liked comments on the Greek clips.
