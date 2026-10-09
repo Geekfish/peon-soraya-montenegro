@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "soraya_montenegro_gr",
   "display_name": "Soraya Montenegro (Greek dub)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Soraya Montenegro, villain of the 1995 Mexican telenovela María la del Barrio, in the Greek dub (Μαρία της Γειτονιάς).",
   "author": {
     "name": "Eleni Lixourioti",
@@ -16,7 +16,7 @@
         {
           "file": "sounds/filas_tin_anapiri.mp3",
           "label": "Τι κάνεις εκεί; Φιλάς την ανάπηρη;",
-          "sha256": "28bc9b2e89d4f466f28c21a0e7d2add559848973ae046aa0647f98fdbf9a9f04"
+          "sha256": "990293a38a3f45d2ff45acec802dfabf694a650e93978fdaf2c41756b2f94f12"
         },
         {
           "file": "sounds/pou_einai_i_anapiri.mp3",
@@ -140,7 +140,7 @@
         {
           "file": "sounds/erotevmeni_kataramei.mp3",
           "label": "Ώστε με αυτόν είσαι ερωτευμένη, καταραμένη ανάπηρη!",
-          "sha256": "ece7a4ac07d94198eb4b836c27f7077b2207e51eb8ec512ebf6666758acb5652"
+          "sha256": "15e7bd88b1c710a7b898a16dff4cf7c336643c15a1138d57029d0e29d13119c4"
         },
         {
           "file": "sounds/xoris_tin_adeia_mou.mp3",
